@@ -19,7 +19,7 @@ I am a statistics student at Stockholm University with a passion for data analys
 
 ## Projects
 
-### [Project 1: Data Analysis of US traffic accidents](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT))
+### [Data Analysis of US traffic accidents](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT)
 
 - Description: A comprehensive data analysis project on an open source dataset to uncover trends and patterns in national and regional traffic accidents across the US.
 - Tools: Python, Pandas, Matplotlib
