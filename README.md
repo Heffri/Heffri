@@ -1,8 +1,13 @@
 # Sebastijan Babic | Heffri
+## Contact
+
+- **Email:** sebastijan.sthlm@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/sebastijanbabic/)**
+
 
 ## About Me
 
-I am a statistics student with a passion for data analysis, machine learning, and statistical modeling. I enjoy working with data to uncover insights and make data-driven decisions.
+I am a statistics student at Stockholm University with a passion for data analysis, machine learning, and statistical modeling. I enjoy working with data to uncover insights and make data-driven decisions.
 
 ## Skills
 
@@ -14,9 +19,9 @@ I am a statistics student with a passion for data analysis, machine learning, an
 
 ## Projects
 
-### [Project 1: Data Analysis of XYZ]([link-to-project](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT))
+### [Project 1: Data Analysis of US traffic accidents](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT))
 
-- Description: A comprehensive data analysis project on XYZ dataset to uncover trends and patterns.
+- Description: A comprehensive data analysis project on an open source dataset to uncover trends and patterns in national and regional traffic accidents across the US.
 - Tools: Python, Pandas, Matplotlib
 
 
@@ -28,8 +33,3 @@ I am a statistics student with a passion for data analysis, machine learning, an
 - **Master of Science in Statistics**
   - Stockholm University
   - Expected Graduation: Year 2028
-
-## Contact
-
-- **Email:** sebastijan.sthlm@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/sebastijanbabic/))
