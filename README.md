@@ -1,4 +1,4 @@
-# Sebastijan Babic | Heffri
+# Sebastijan Babic | SeBa
 ## Contact
 
 - **Email:** sebastijan.sthlm@gmail.com
