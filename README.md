@@ -15,7 +15,6 @@ I am a statistics student at Stockholm University with a passion for data analys
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, Tidyverse
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Machine Learning:** Regression, Classification, Clustering
-- **Statistical Modeling:** Hypothesis Testing, ANOVA, Time Series Analysis
 
 ## Projects
 
