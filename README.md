@@ -14,7 +14,7 @@ I am a statistics student at Stockholm University with a passion for data analys
 - **Programming Languages:** Python, Lua, R, SQL, RegEx
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, Tidyverse
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
-- **Machine Learning:** Regression, Classification, Clustering
+- **Machine Learning:** Regression, Classification
 
 ## Projects
 
