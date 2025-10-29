@@ -11,8 +11,8 @@ I am a statistics student at Stockholm University with a passion for data analys
 
 ## Skills
 
-- **Programming Languages:** Python, Lua, R, SQL, RegEx
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, Tidyverse
+- **Programming Languages:** Python, Lua, R, SQL
+- **Data Analysis:** Pandas, NumPy, Tidyverse, lme4, lmerTest, effects
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Machine Learning:** Regression, Classification
 
@@ -20,9 +20,9 @@ I am a statistics student at Stockholm University with a passion for data analys
 
 ### [Data Analysis of US traffic accidents](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT)
 
-- Description: A comprehensive data analysis project on an open source dataset to uncover trends and patterns in national and regional traffic accidents across the US.
-- Tools: Python, Pandas, Matplotlib
+- Description: A data analysis project on an open source dataset to uncover trends and patterns in national and regional traffic accidents across the US.
 
+If requested I am also able to provide some of the previous university projects I have done. 
 
 ## Education
 
