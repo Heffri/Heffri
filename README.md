@@ -1,9 +1,4 @@
 # Sebastijan Babic | Heffri
-## Contact
-
-- **Email:** sebastijan.sthlm@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/sebastijanbabic/)**
-
 
 ## About Me
 
