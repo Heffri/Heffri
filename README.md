@@ -14,9 +14,9 @@ If requested I am also able to provide some of the previous university projects 
 
 ## Education
 
-- **Bachelor of Science in Mathematics and Computer Science with a major in Statistics**
+- **[Bachelor's Programme in Mathematics and Computer Science with a major in Mathematical Statistics and Data Science](https://www.su.se/utbildning/utbildningskatalog/nm/nmdvk?open-collapse-boxes%3Dprogramme-more-about=)**
   - Stockholm University
   - Expected Graduation: Year 2026
-- **Master of Science in Statistics**
+- **[Master's Programme in Mathematical Statistics and Machine Learning](https://www.su.se/english/education/course-catalogue/nm/nmsmm)**
   - Stockholm University
   - Expected Graduation: Year 2028
