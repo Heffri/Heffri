@@ -6,16 +6,16 @@ I am a mathematical statistics student at Stockholm University with a passion fo
 
 Featured Projects
 
-US Traffic Accident Analysis | 
+### US Traffic Accident Analysis 
 - Analyzed a large public dataset in Python to identify national and regional traffic accident patterns through data cleaning, exploratory analysis, and geospatial visualization.
 
-Glacier Ice Flow Simulation
+### Glacier Ice Flow Simulation
 - Implemented a finite-element simulation of glacier ice flow in Python using FEniCSx and UFL to model velocity fields over a real mesh.
 
-Supervised Statistical Learning
+### Supervised Statistical Learning
 - Built regression and mixed-effects models in R for real datasets, including model selection, cross-validation, and hierarchical statistical analysis.
 
-Database Technology Projects
+### Database Technology Projects
 - Worked with SQL, MariaDB, and SQLite for query design, optimization, and Python-based database applications.
 
 
