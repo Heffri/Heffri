@@ -4,13 +4,20 @@
 
 I am a mathematical statistics student at Stockholm University with a passion for data analysis, machine learning, and statistical modeling. I enjoy working with data to find trends which tell a story. 
 
-## Projects
+Featured Projects
 
-### [Data Analysis of US traffic accidents](https://github.com/MrHEFF/su-mt4007/tree/main/PROJECT)
+US Traffic Accident Analysis | 
+- Analyzed a large public dataset in Python to identify national and regional traffic accident patterns through data cleaning, exploratory analysis, and geospatial visualization.
 
-- Description: A data analysis project on an open source dataset to uncover trends and patterns in national and regional traffic accidents across the US.
+Glacier Ice Flow Simulation
+- Implemented a finite-element simulation of glacier ice flow in Python using FEniCSx and UFL to model velocity fields over a real mesh.
 
-If requested I am also able to provide some of the previous university projects I have done. 
+Supervised Statistical Learning
+- Built regression and mixed-effects models in R for real datasets, including model selection, cross-validation, and hierarchical statistical analysis.
+
+Database Technology Projects
+- Worked with SQL, MariaDB, and SQLite for query design, optimization, and Python-based database applications.
+
 
 ## Education
 
