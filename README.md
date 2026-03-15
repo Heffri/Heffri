@@ -4,7 +4,7 @@
 
 I am a mathematical statistics student at Stockholm University with a passion for data analysis, machine learning, and statistical modeling. I enjoy working with data to find trends which tell a story. 
 
-Featured Projects
+## Featured Projects
 
 ### US Traffic Accident Analysis 
 - Analyzed a large public dataset in Python to identify national and regional traffic accident patterns through data cleaning, exploratory analysis, and geospatial visualization.
